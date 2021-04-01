@@ -1,5 +1,5 @@
 body {
-  font-family: Roboto, "sans-serif";
+  font-family: "Roboto", sans-serif;
   margin: auto;
   background: black;
   overflow: hidden;
@@ -20,7 +20,7 @@ body {
   margin-top: 0;
   margin-bottom: 10px;
   font-size: 36px;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .fullscreen {

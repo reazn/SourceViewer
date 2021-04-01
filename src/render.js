@@ -33,7 +33,7 @@ videoElement.addEventListener("mousemove", () => {
         fullscreen.style.display = "none"
         document.getElementById("bar").style.left = "-540px";
         document.querySelector("body").style.cursor = "none";
-    }, 4000)
+    }, 2000)
 })
 
 audioSelect.addEventListener("mousemove", () => {clearTimeout(timer)})
