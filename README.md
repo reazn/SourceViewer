@@ -1,3 +1,4 @@
+![CI](https://github.com/reazn/sourceviewer/actions/workflows/build.yml/badge.svg)
 # SourceViewer
 View all video sources in a window with the ability to go full screen.
 Works with:
